@@ -1,6 +1,6 @@
 # {{PACKAGE_NAME}}
 
-[![Build Status](https://img.shields.io/badge/build-passing-success.svg)](https://img.shields.io/badge/build-passing-success.svg)
+[![Build](https://img.shields.io/travis/com/{{USERNAME}}/{{PACKAGE_NAME}}.svg)](https://travis-ci.com/{{USERNAME}}/{{PACKAGE_NAME}}/)
 
 {{PACKAGE_DESCRIPTION}}
 
