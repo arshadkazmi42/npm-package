@@ -1,6 +1,6 @@
 # {{PACKAGE_NAME}}
 
-[![Build](https://img.shields.io/travis/com/{{USERNAME}}/{{PACKAGE_NAME}}.svg)](https://travis-ci.com/{{USERNAME}}/{{PACKAGE_NAME}}/)
+[![Build](https://github.com/{{USERNAME}}/{{PACKAGE_NAME}}/actions/workflows/nodejs.yml/badge.svg)](https://github.com/{{USERNAME}}/{{PACKAGE_NAME}}/actions/workflows/nodejs.yml)
 
 {{PACKAGE_DESCRIPTION}}
 
